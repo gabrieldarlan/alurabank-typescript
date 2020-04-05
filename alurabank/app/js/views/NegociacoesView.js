@@ -30,7 +30,7 @@ System.register(["./View"], function (exports_1, context_1) {
                 <td>${negociacao.valor}</td>
                 <td>${negociacao.volume}</td>
                 <tr>
-                `).join()}
+            `).join()}
                 </tbody>
                 
                 <tfoot>
